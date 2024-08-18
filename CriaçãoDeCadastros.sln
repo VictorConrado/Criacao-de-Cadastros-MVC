@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CriaçãoDeCadastros", "CriaçãoDeCadastros\CriaçãoDeCadastros.csproj", "{0EEBD66C-E46C-4829-A42B-A03A862E9ECF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EEBD66C-E46C-4829-A42B-A03A862E9ECF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EEBD66C-E46C-4829-A42B-A03A862E9ECF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EEBD66C-E46C-4829-A42B-A03A862E9ECF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EEBD66C-E46C-4829-A42B-A03A862E9ECF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FEBE56A7-9C7C-4528-B488-61C67A173974}
+	EndGlobalSection
+EndGlobal
